@@ -1,12 +1,12 @@
 /*
-            **** OPERADORES RELACIONALES Y TERNARIO ****
+                  **** OPERADORES RELACIONALES Y TERNARIO ****
 
     El presente código implementa el uso de algunos de los operadores relaciones
     en conjunto con el operador ternario para asignar en este caso un texto a una 
     variable string, un char y un número entero a la variable según corresponda.
 
     ** OPERADOR TERNARIO **
-    (CONDICIÓN "OPERADORES RELACIONALES") ? Si se cumple : Si no se cumple;
+    (CONDICIÓN "OPERADORES RELACIONALES") ? Si se cumple : Si no se cumple; 
 
 */
 
